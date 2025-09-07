@@ -4,6 +4,6 @@
   "version": "0.1.0",
   "minAppVersion": "0.15.0",
   "description": "Automatically insert both a clickable link and an embedded preview when dragging and dropping PDFs into the editor.",
-  "author": "Your Name",
+  "author": "mioupa",
   "isDesktopOnly": true
 }
